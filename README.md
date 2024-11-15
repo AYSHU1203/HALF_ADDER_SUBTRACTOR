@@ -66,7 +66,7 @@ endmodule
 Developed by: RegisterNumber:*/
 
 **RTL Schematic**
-![Screenshot 2024-11-14 165110](https://github.com/user-attachments/assets/bf160ccb-140b-4b88-be3d-1a8a947e8519)
+"C:\Users\admin\Pictures\screenshotexp3.png"
 
 **Output/TIMING Waveform**
 ![Screenshot 2024-11-14 165517](https://github.com/user-attachments/assets/bbe9af04-79a6-4bd9-b0a2-7bec1759b901)
